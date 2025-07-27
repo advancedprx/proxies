@@ -1,5 +1,7 @@
 # 🌐 Proxymix.net — Fast, Rotating Proxies with Unlimited Traffic
 
+![Proxymix Banner](https://github.com/advancedprx/proxies/raw/main/card.jpg)
+
 **Proxymix** is a high-performance proxy platform with **60,000+ rotating IPs** available 24/7.  
 It supports `SOCKS4/4a/5`, `HTTP`, and `HTTPS` — perfect for:
 
